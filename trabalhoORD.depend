@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661953360 source:/home/carlos/Documentos/ORD/trabalhoORD/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
